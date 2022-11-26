@@ -1,0 +1,63 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    
+}
+nav{
+    background-image: url("assets/anakin.png");
+    background-size: 100%;
+    height: 400px;
+    margin: 0% 5.5%;
+}
+.nav-div{
+    padding: 20% 0px 0px 25%;
+    line-height: 1.7em;
+    color: rgb(38, 37, 37);
+}
+.h1-first, .h1-second{
+    margin: 0%;
+}
+.h1-first{
+    font-size: 2.3em;
+}
+.h1-second{
+    font-size: 4.8em;
+}
+h1{
+    font-family: 'Noto Serif', serif;
+}
+main{
+    
+    font-family: 'Josefin Sans', sans-serif;
+    line-height: 1.5em;
+    font-size: large;
+}
+section{
+    margin: 5% 27%;
+}
+q{
+    
+    color:rgb(243, 241, 240);
+    text-align: center;
+    line-height: 1em;
+    font-size: 2.5rem;
+}
+hgroup{
+    background-color: rgb(69, 69, 69);
+    padding: 3%;
+    margin: 0% 23%;
+}
+p{
+    color: rgb(69, 69, 69);
+    
+}
+.post-div{
+    padding: 5% 0%;
+}
+h3, h4{
+    margin: 0%;
+}
+hr{
+    height: 3px;
+    background-color: black;
+}
